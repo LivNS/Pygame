@@ -42,12 +42,6 @@ moveDown = False
 MOVESPEED = 6
 score = 0  # variável para armazenar a pontuação
 
-def draw_text(text, font, surface, x, y, color):
-    textobj = font.render(text, 1, color)
-    textrect = textobj.get_rect()
-    textrect.topleft = (x, y)
-    surface.blit(textobj, textrect)
-
 # função para limpar o terminal
 def clear_terminal():
     if os.name == 'nt':  # para windows
@@ -162,11 +156,6 @@ while True:
     # desenhando comidas
     for i in range(len(foods)):
         pygame.draw.rect(windowSurface, GREEN, foods[i])
-
-    # Draw the score on the screen.
-    font = pygame.font.SysFont(None, 36)
-    draw_text(f'Pontuação: {score}', font, windowSurface, 10, 10, PINK)
-
 
     pygame.display.update()
     mainClock.tick(40)
