@@ -48,4 +48,4 @@ Divirta-se jogando!!!
 
 ## GIF
 
-![](""C:\Users\livia\Downloads\Pygame.gif"")
+![]("https://drive.google.com/file/d/1_ERdoGt9u64xPAHWx6y3Sy5MvsTNBMez/view?usp=drive_link")
