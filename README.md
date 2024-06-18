@@ -45,3 +45,7 @@ Divirta-se jogando!!!
 - Levy Nascimento Junior- 98655
 - Lívia Namba Seraphim - 97819
 - Luana Cabezaolias - 99320
+
+## GIF
+
+![]("C:\Users\livia\Videos\Captures\Pygame 2024-05-23 16-33-18.mp4")
