@@ -47,5 +47,4 @@ Divirta-se jogando!!!
 - Luana Cabezaolias - 99320
 
 ## GIF
-
-![]("https://drive.google.com/file/d/1_ERdoGt9u64xPAHWx6y3Sy5MvsTNBMez/view?usp=drive_link")
+![Pygame](https://github.com/LivNS/Pygame/assets/118857876/1efc7817-a435-40be-926e-29c5046aa653)
