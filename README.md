@@ -1,6 +1,8 @@
 # Jogo Pygame
 - Este é um jogo simples desenvolvido com Pygame, onde o jogador controla um "quadrado" que se move ao redor da tela para comer quadradinhos de comida e ganhar pontos. O jogo termina quando o jogador colide com um obstáculo.
 
+![Pygame](https://github.com/LivNS/Pygame/assets/118857876/1efc7817-a435-40be-926e-29c5046aa653)
+
 ## Como Jogar
 - Use as teclas de seta para cima, para baixo, esquerda e direita ou W, S, A e D  para mover o quadrado na tela.
 - Evite colidir com as bordas da tela ou com os obstáculos.
@@ -46,5 +48,3 @@ Divirta-se jogando!!!
 - Lívia Namba Seraphim - 97819
 - Luana Cabezaolias - 99320
 
-## GIF
-![Pygame](https://github.com/LivNS/Pygame/assets/118857876/1efc7817-a435-40be-926e-29c5046aa653)
