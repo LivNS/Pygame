@@ -48,4 +48,4 @@ Divirta-se jogando!!!
 
 ## GIF
 
-![]("C:\Users\livia\Videos\Captures\Pygame 2024-05-23 16-33-18.mp4")
+![](""C:\Users\livia\Downloads\Pygame.gif"")
